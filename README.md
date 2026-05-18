@@ -86,7 +86,7 @@ The production version of Artist Finds is deployed using Vercel.
 
 Live application:
 
-[Artist Finds Deployment](https://inst-377-final-artist-finds.vercel.app/)
+[Artist Finds Deployment](https://final-artist-finds-l8nhicg39-nivitha-paranthaman-s-projects.vercel.app)
 
 To redeploy:
 
