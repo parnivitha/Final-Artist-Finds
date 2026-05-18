@@ -1,4 +1,4 @@
-# Project Title: INST377-Final-Artist_Finds
+# Project Title: INST377-Final-Artist-Finds
 
 ## Project Description
 
